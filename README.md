@@ -1,6 +1,8 @@
 Raptor Editor
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/direktspeed/raptor-editor.svg)](https://greenkeeper.io/)
+
 Raptor Editor is a user-focused extensible WYSIWYG website content editor - check out the [Demo][^4].
 
 **It is designed to be user and developer friendly**
